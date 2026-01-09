@@ -4,7 +4,7 @@
 
 ### AI-Powered Plant Recognition Using Deep Learning
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red.svg)](https://keras.io/)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)](https://docs.python.org/3/library/tkinter.html)
@@ -88,7 +88,7 @@ The model can identify the following **30 plant species**:
 
 | Component | Technology |
 |-----------|------------|
-| **Language** | ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python) |
+| **Language** | ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) |
 | **Deep Learning** | TensorFlow 2.x, Keras |
 | **GUI Framework** | Tkinter |
 | **Image Processing** | PIL (Pillow), NumPy |
@@ -100,7 +100,7 @@ The model can identify the following **30 plant species**:
 ## 💻 Installation
 
 ### Prerequisites
-- Python 3.8 or higher
+- Python 3.11
 - pip package manager
 - At least 4GB RAM (for model loading)
 
@@ -113,11 +113,6 @@ cd GoPlants
 ```
 
 2. **Install required packages:**
-```bash
-pip install tensorflow pillow numpy
-```
-
-Or install all dependencies:
 ```bash
 pip install -r requirements.txt
 ```
@@ -206,9 +201,8 @@ GoPlants/
 ├── model-creation.ipynb        # Notebook for model training
 ├── model-testing.ipynb         # Notebook for model evaluation
 ├── requirements.txt            # Python dependencies
-├── README.md                   # Project documentation (this file)
 └── dataset/                    # Dataset directory (not included)
-    ├── train/                  # Training images
+    ├── train/                  # Training images             
     ├── validation/             # Validation images
     └── test/                   # Test images
 ```
@@ -263,16 +257,9 @@ Contributions are welcome! Here's how you can help:
 
 ## 📬 Contact
 
-**Developed by The Perfect Mix**
+**Developed by Ch Ayushman Patro**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ch-ayushman-patro)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Ch-Ayushman-Patro)
 
 For questions, suggestions, or collaboration opportunities, feel free to reach out!
-
----
-
-<div align="center">
-
-### ⭐ If you found this project helpful, please consider giving it a star!
-
-**Made with ❤️ and 🌿 by The Perfect Mix**
-
-</div>
