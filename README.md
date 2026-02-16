@@ -259,7 +259,6 @@ Contributions are welcome! Here's how you can help:
 
 **Developed by Ch Ayushman Patro**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ch-ayushman-patro)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Ch-Ayushman-Patro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ch-ayushman-patro) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Ch-Ayushman-Patro)
 
 For questions, suggestions, or collaboration opportunities, feel free to reach out!
