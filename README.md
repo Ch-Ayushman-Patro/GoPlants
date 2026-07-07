@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 GoPlants - Plant Image Classifier
+# GoPlants - Plant Image Classifier
 
 ### AI-Powered Plant Recognition Using Deep Learning
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#-overview)
 - [Features](#-features)
@@ -31,38 +31,38 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 **GoPlants** is an intelligent plant classification application that uses deep learning to identify **30 different plant species** from images. Built with a custom-trained Convolutional Neural Network (CNN), the application provides a user-friendly desktop interface for quick and accurate plant identification.
 
 ### Key Highlights:
-- 🧠 **Deep Learning Model** trained on 30,000+ images
-- 🎨 **Beautiful GUI** with gradient backgrounds and smooth animations
-- ⚡ **Real-time Classification** with confidence scoring
-- 📊 **High Accuracy** with comprehensive data augmentation
-- 🔄 **Responsive Design** with threading for smooth user experience
+- **Deep Learning Model** trained on 30,000+ images
+- **Beautiful GUI** with gradient backgrounds and smooth animations
+- **Real-time Classification** with confidence scoring
+- **High Accuracy** with comprehensive data augmentation
+- **Responsive Design** with threading for smooth user experience
 
 ---
 
-## ✨ Features
+## Features
 
-### 🖼️ Image Upload & Classification
+### Image Upload & Classification
 - Upload plant images in common formats (JPG, PNG, etc.)
 - Instant preview of uploaded images
 - One-click classification with visual feedback
 
-### 🎯 Intelligent Prediction
+### Intelligent Prediction
 - **Confidence-based results**: Only shows predictions with >40% confidence
 - **30 plant species** recognition capability
 - **Uncertainty handling**: Alerts when classification is unreliable
 
-### 🎨 Modern User Interface
+### Modern User Interface
 - **Gradient background** with teal color scheme
 - **Hover effects** on buttons for better interactivity
 - **Responsive layout** that adapts to window resizing
 - **Clean design** with custom fonts and styling
 
-### ⚙️ Technical Features
+### Technical Features
 - **Multi-threaded processing** for responsive UI
 - **Image preprocessing** with normalization
 - **Data augmentation** for robust model training
@@ -70,7 +70,7 @@
 
 ---
 
-## 🌱 Supported Plants
+## Supported Plants
 
 The model can identify the following **30 plant species**:
 
@@ -84,7 +84,7 @@ The model can identify the following **30 plant species**:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |-----------|------------|
@@ -97,7 +97,7 @@ The model can identify the following **30 plant species**:
 
 ---
 
-## 💻 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.11
@@ -123,7 +123,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### Running the Application
 
@@ -142,7 +142,7 @@ python app.py
 
 **High Confidence (≥40%):**
 ```
-🌿 Predicted Class: mango
+Predicted Class: mango
 Confidence Level: 0.87
 ```
 
@@ -153,7 +153,7 @@ Confidence Level: 0.87
 
 ---
 
-## 🧠 Model Details
+## Model Details
 
 ### Architecture
 
@@ -192,7 +192,7 @@ To improve model robustness, the following augmentations were applied:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 GoPlants/
@@ -209,7 +209,7 @@ GoPlants/
 
 ---
 
-## 🔍 How It Works
+## How It Works
 
 ### 1. **Image Upload**
    - User selects an image through the file dialog
@@ -235,7 +235,7 @@ GoPlants/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -246,16 +246,16 @@ Contributions are welcome! Here's how you can help:
 5. **Open a Pull Request**
 
 ### Contribution Ideas:
-- 🌿 Add support for more plant species
-- 📱 Create a mobile version of the app
-- 🌐 Build a web-based interface
-- 📊 Improve model accuracy with advanced architectures
-- 🎨 Enhance UI/UX design
-- 📝 Add plant information and care tips
+- Add support for more plant species
+- Create a mobile version of the app
+- Build a web-based interface
+- Improve model accuracy with advanced architectures
+- Enhance UI/UX design
+- Add plant information and care tips
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Developed by Ch Ayushman Patro**
 
