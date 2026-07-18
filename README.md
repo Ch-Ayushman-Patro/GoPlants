@@ -2,7 +2,7 @@
 
 # GoPlants - Plant Image Classifier
 
-### AI-Powered Plant Recognition Using Deep Learning
+### Deep Learning-Based Plant Recognition
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://www.tensorflow.org/)
